@@ -1,1 +1,1 @@
-Some useful VBA function/types from back in the day
+Some useful VBA functions/types from back in the day
